@@ -1,5 +1,69 @@
 # 💫 About Me:
-I'm currently working with Large Language Model specifically RAG.<br>And Learning RAG with reasoning based question-answere
+I’m a **GenAI / AI Platform Engineer** focused on building **production-grade, agentic AI systems** — not demos.
+
+My work centers around **multi-agent architectures**, **Model Context Protocol (MCP)** servers, and **end-to-end AI platforms** that integrate securely with real systems like codebases, databases, CI/CD pipelines, and long-term memory stores.
+
+I design AI systems the way backend platforms are designed: **modular, observable, secure, and scalable**.
+
+---
+
+## 🔧 What I Build
+
+* 🤖 **Multi-Agent Systems** using **LangGraph** (stateful orchestration, control flow, retries)
+* 🔗 **MCP Servers & AI Protocols** (FastMCP, tool/resource design, sessions, pagination)
+* 🧠 **RAG & Memory Systems** (Supabase, pgvector, vector search, grounding)
+* 🛠️ **AI Developer Tooling** (PR review agents, IDE/CI integrations)
+* 🗄️ **AI ↔ Database Interfaces** (Natural language → SQL with security controls)
+* 🚀 **Production AI Pipelines** (Docker, CI/CD, GitHub Actions, cloud deployment)
+
+---
+
+## 🚀 Selected Projects
+
+* **PR-Agent**
+  Multi-agent pull request review platform combining static analysis + LLM reasoning.
+  Runs via **GitHub Actions**, **FastMCP**, and a **Streamlit UI**.
+
+* **SQL MCP Server**
+  Protocol-first MCP server enabling **secure natural-language access to PostgreSQL & SQLite**, with 20+ tools, pagination, Streamlit UI, and cloud deployment.
+
+* **AthletixAI**
+  AI fitness coaching platform with **long-term memory**, **semantic search**, and **multi-agent planning** using Supabase + pgvector.
+
+* **AI Newsletter Agent**
+  Fully automated AI news pipeline aggregating **39 sources**, performing deduplication, summarization, categorization, and free SMTP delivery.
+
+* **AI Interview Agent / Blog Agent**
+  Agentic systems for structured interviews and long-form technical content generation.
+
+* **Healthcare ML Systems**
+  Production-ready ML pipelines for **thyroid disease detection**, including APIs, CI/CD, and explainability.
+
+---
+
+## 🧠 Engineering Philosophy
+
+* **Agents > Prompts**
+* **Protocols > Ad-hoc Function Calling**
+* **Systems > Scripts**
+* **Security & constraints are features, not afterthoughts**
+
+I’m especially interested in **AI platforms**, **developer experience**, and **protocol-level GenAI infrastructure**.
+
+---
+
+## 📫 Let’s Build
+
+If you’re working on:
+
+* agent platforms
+* MCP / tool-based AI systems
+* AI-native developer tooling
+* or production GenAI infrastructure
+
+I’m always happy to connect and collaborate.
+
+---
 
 
 ## 🌐 Socials:
