@@ -33,9 +33,6 @@ I design AI systems the way backend platforms are designed: **modular, observabl
 * **AI Newsletter Agent**
   Fully automated AI news pipeline aggregating **39 sources**, performing deduplication, summarization, categorization, and free SMTP delivery.
 
-* **AI Interview Agent / Blog Agent**
-  Agentic systems for structured interviews and long-form technical content generation.
-
 * **Healthcare ML Systems**
   Production-ready ML pipelines for **thyroid disease detection**, including APIs, CI/CD, and explainability.
 
