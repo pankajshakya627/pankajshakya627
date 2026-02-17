@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a **GenAI / AI Platform Engineer** focused on building **production-grade, agentic AI systems** — not demos.
+I’m a **GenAI / AI Engineer** focused on building **production-grade, agentic AI systems** — not demos.
 
 My work centers around **multi-agent architectures**, **Model Context Protocol (MCP)** servers, and **end-to-end AI platforms** that integrate securely with real systems like codebases, databases, CI/CD pipelines, AWS, and long-term memory stores.
 
